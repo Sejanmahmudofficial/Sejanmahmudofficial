@@ -52,9 +52,7 @@ Skills: Web Designer / Content Creator / Gamer / YouTuber / Video Editor / Digit
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" width="40" height="40" alt="whatsapp logo" />
   </a>
   <a href="mailto:sejangamingofficial@gmail.com" target="_blank" style="border-radius: 50%; background-color: #D44638; padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="40" height="40" alt="gmail logo" />
-  </a>
-</div>
+    <img 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](sejangamingofficial@gmail.com )  
 
