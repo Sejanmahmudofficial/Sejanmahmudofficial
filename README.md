@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Sejan Mahmud 
 #### Web Designer
-![Web Designer]
+
 Hi! I'm Sejan Mahmud I'm from Bangladesh. I'm Professional Blogger, Photographer, Web Designer, Content Creator, Gamer, YouTuber, Video Editor, Digital Marketer, Graphics Designer, And so much more etc.
 
 Skills: Web Designer / Content Creator / Gamer / YouTuber / Video Editor / Digital Marketer / Graphics Designer
