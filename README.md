@@ -1,51 +1,64 @@
-<h1 align="center">Hi 👋, I'm Dilwala Shakib</h1>
+## Hi 👋 I'm Sejan Mahmud 
+### Web Designer
 
-<p align="center">I am a full stack web developer. I specialize in JavaScript, Node JS, React JS, Next JS, Express JS, MongoDB, Tailwind CSS and more. </p>
+Hi! I'm Sejan Mahmud I'm from Bangladesh. I'm Professional Blogger, Photographer, Web Designer, Content Creator, Gamer, YouTuber, Video Editor, Digital Marketer, Graphics Designer, And so much more etc.
 
-<div><img src="./Images/dilwala.png" height='auto' alt="javascript logo"  /></div>
+Skills: Web Designer / Content Creator / Gamer / YouTuber / Video Editor / Digital Marketer / Graphics Designer
 
-<h2 align="center">I code with</h2>
+- 🔭 I’m currently working on YouTube 
+- 📫 How to reach me: Don't know 
+- ⚡ Fun fact: Nothing 
 
-<div align="center">
-  <img src="./Images/javascript.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="./Images/Reactjs.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="./Images/Nextjs.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="./Images/Nodejs.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="./Images/Expressjs.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="./Images/MongoDB.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="./Images/TailwindCss.svg" height="40" alt="tailwindcss logo"  />
-</div>
+# connect with me!
 
-<br clear="both">
+<a href="https://github.com/Sejanmahmudofficial" target="_blank">
+    <img src="./social/github.svg" width="54" height="40" alt="github logo" />
+</a>
+<a href="https://www.linkedin.com/in/sejanmahmudofficial/" target="_blank">
+    <img src="./social/linkedin.svg" width="54" height="40" alt="linkedin logo" />
+</a>
+<a href="https://www.facebook.com/SejanMahmudOfficial" target="_blank">
+    <img src="./social/facebook.svg" width="54" height="40" alt="facebook logo" />
+</a>
+<a href="https://www.instagram.com/sejan__mahmud/" target="_blank">
+    <img src="./social/instagram.svg" width="54" height="40" alt="instagram logo" />
+</a>
+<a href="https://twitter.com/Sejan__Mahmud" target="_blank">
+    <img src="./social/twitter.svg" width="54" height="40" alt="twitter logo" />
+</a>
+<a href="https://youtube.com/@sejan_gaming_official?si=JtscGk7KtbdYDylo" target="_blank">
+    <img src="./social/youtube.svg" width="54" height="40" alt="youtube logo" />
+</a>
+<a href="https://www.reddit.com/user/Sejan__Mahmud" target="_blank">
+    <img src="./social/reddit.svg" width="54" height="40" alt="reddit logo" />
+</a>
+<a href="http://t.me/Sejan_Mahmud" target="_blank">
+    <img src="./social/telegram.svg" width="54" height="40" alt="telegram logo" />
+</a>
+<a href="https://twitch.tv/sejanmahmud" target="_blank">
+    <img src="./social/twitch.svg" width="54" height="40" alt="twitch logo" />
+</a>
+<a href="https://Pinterest.com/Sejan_Mahmud" target="_blank">
+    <img src="./social/pinterest.svg" width="54" height="40" alt="pinterest logo" />
+</a>
+<a href="https://mastodon.social/@SejanMahmud" target="_blank">
+    <img src="./social/mastodon.svg" width="54" height="40" alt="mastodon logo" />
+</a>
+<a href="https://leetcode.com/SejanMahmud" target="_blank">
+    <img src="./social/leetcode.svg" width="54" height="40" alt="leetcode logo" />
+</a>
+<a href="https://wa.me/8801892063187" target="_blank">
+    <img src="./social/whatsapp.svg" width="54" height="40" alt="whatsapp logo" />
+</a>
+<a href="mailto:sejangamingofficial@gmail.com" target="_blank">
+    <img src="./social/gmail.svg" width="54" height="40" alt="gmail logo" />
+</a>
 
-<h2 align="center">Connect with me!</h2>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](sejangamingofficial@gmail.com )  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dilwalashakib/" target="_blank">
-    <img src="./social/linkedin.svg" width="54" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@dilwalaShakib" target="_blank">
-    <img src="./social/youtube.svg" width="54" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/dilwalashakib" target="_blank">
-    <img src="./social/facebook.svg" width="54" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/13046204/dilwala-shakib" target="_blank">
-    <img src="./social/stackoverflow.svg" width="54" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.instagram.com/dilwalashakib" target="_blank">
-    <img src="./social/instagram.svg" width="54" height="40" alt="instagram logo"  />
-  </a>
-  <a href='#' title="dilwala446@gmail.com">
-    <img src="./social/gmail.svg" width="54" height="40" alt="gmail logo"  />
-  </a>
-  <a href='#' title="01645975729">
-    <img src="./social/whatsapp.svg" width="54" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejanmahmudofficial&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sejanmahmudofficial/contributions?format=svg&private=true)  
+
+## 📧 For Business Inquiries
+sejangamingofficial@gmail.com
