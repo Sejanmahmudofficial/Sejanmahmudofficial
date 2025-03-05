@@ -1,6 +1,8 @@
 ### Hi there 👋, Hi 👋 I'm Sejan Mahmud 
 #### Web Designer
-![Web Designer](file:///data/user/0/com.twitter.android/cache/1706204858888658944_header.jpg)
+![Web Designer]
+
+(file:///data/user/0/com.twitter.android/cache/1706204858888658944_header.jpg)
 
 Hi! I'm Sejan Mahmud I'm from Bangladesh. I'm Professional Blogger, Photographer, Web Designer, Content Creator, Gamer, YouTuber, Video Editor, Digital Marketer, Graphics Designer, And so much more etc.
 
