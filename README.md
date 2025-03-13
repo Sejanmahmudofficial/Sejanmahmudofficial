@@ -1,70 +1,66 @@
-## Hi 👋 I'm Sejan Mahmud 
-### Web Designer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media Icons</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .social-icons a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background-color: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+        }
+        .social-icons a:hover {
+            transform: scale(1.1);
+        }
+        .social-icons img {
+            width: 40px;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
 
-Hi! I'm Sejan Mahmud from Bangladesh. I'm a Professional Blogger, Photographer, Web Designer, Content Creator, Gamer, YouTuber, Video Editor, Digital Marketer, Graphics Designer, and more.
+<h2>Follow Me on Social Media</h2>
 
-### Skills:
-Web Designer / Content Creator / Gamer / YouTuber / Video Editor / Digital Marketer / Graphics Designer
+<div class="social-icons">
+    <a href="https://www.linkedin.com/in/sejanmahmudofficial/" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
+    </a>
+    <a href="https://youtube.com/@sejan_gaming_official" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/youtube-play.png"/>
+    </a>
+    <a href="https://www.facebook.com/SejanMahmudOfficial" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/facebook.png"/>
+    </a>
+    <a href="https://stackoverflow.com/users/your-id" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/stackoverflow.png"/>
+    </a>
+    <a href="https://www.instagram.com/sejan__mahmud/" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/instagram-new.png"/>
+    </a>
+    <a href="mailto:sejangamingofficial@gmail.com">
+        <img src="https://img.icons8.com/color/96/000000/gmail.png"/>
+    </a>
+    <a href="https://wa.me/8801892063187" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/whatsapp.png"/>
+    </a>
+</div>
 
-- 🔭 I’m currently working on YouTube  
-- 📫 How to reach me: Don't know  
-- ⚡ Fun fact: Nothing  
-
-## Connect with me!  
-
-<p align="center">
-  <a href="https://github.com/Sejanmahmudofficial" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sejanmahmudofficial/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/SejanMahmudOfficial" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png"/>
-  </a>
-  <a href="https://www.instagram.com/sejan__mahmud/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/>
-  </a>
-  <a href="https://twitter.com/Sejan__Mahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx.png"/>
-  </a>
-  <a href="https://youtube.com/@sejan_gaming_official?si=JtscGk7KtbdYDylo" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png"/>
-  </a>
-  <a href="https://www.reddit.com/user/Sejan__Mahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF4500/reddit.png"/>
-  </a>
-  <a href="http://t.me/Sejan_Mahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png"/>
-  </a>
-  <a href="https://twitch.tv/sejanmahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/9146FF/twitch.png"/>
-  </a>
-  <a href="https://Pinterest.com/Sejan_Mahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/BD081C/pinterest.png"/>
-  </a>
-  <a href="https://Tumblr.com/@sejanmahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/36465D/tumblr.png"/>
-  </a>
-  <a href="https://mastodon.social/@SejanMahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/6364FF/mastodon.png"/>
-  </a>
-  <a href="https://leetcode.com/SejanMahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFA116/leetcode.png"/>
-  </a>
-  <a href="https://wa.me/8801892063187" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png"/>
-  </a>
-  <a href="mailto:sejangamingofficial@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png"/>
-  </a>
-</p>
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejanmahmudofficial&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sejanmahmudofficial/contributions?format=svg&private=true)  
-
-## 📧 **For Business Inquiries:**  
-📩 sejangamingofficial@gmail.com
+</body>
+</html>
