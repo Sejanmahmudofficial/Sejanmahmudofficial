@@ -14,13 +14,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/Sejan__Mahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="50" height="50"/>
   </a>
   <a href="https://youtube.com/@sejan_gaming_official" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="50"/>
   </a>
   <a href="https://www.reddit.com/user/Sejan__Mahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Reddit_logo_new.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Reddit_Logo_Icon.svg" width="50" height="50"/>
   </a>
   <a href="https://t.me/Sejan_Mahmud" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50"/>
@@ -32,7 +32,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="50" height="50"/>
   </a>
   <a href="https://tumblr.com/@sejanmahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Tumblr_Logo.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Tumblr_wordmark.svg" width="50" height="50"/>
   </a>
   <a href="https://mastodon.social/@SejanMahmud" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="50" height="50"/>
