@@ -1,3 +1,7 @@
+হয়েছে কিন্তু তিন চারটা হয় নাই যেমন GitHub এর লোগো X অথবা pinterest এর লোগো LeetCode এর লোগো কিন্তু কেন হয় না এগুলা ঠিক কর বাকিগুলা যেরকম আছে ঐরকম থাকুক এইগুলো একটু ঠিক করো যাতে এগুলো হয়ে যায়
+
+হয়েছে কিন্তু এবার তিনটা হয় নাই এই তিনটা শুধু ঠিক করা ঐ গুলা ঠিক থাকো টুইটারের লোগো reddit এর লোগো tumblr এর লোগো ঠিক কর বাকিগুলা যেরকম আছে ঐরকম থাকুক এইগুলো একটু ঠিক করো যাতে এগুলো হয়ে যায়
+
 ## 🌍 Connect with me:
 
 <p align="center">
@@ -14,7 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/Sejan__Mahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/twitter_logo_2025_original.svg" width="50" height="50"/>
   </a>
   <a href="https://youtube.com/@sejan_gaming_official" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="50"/>
