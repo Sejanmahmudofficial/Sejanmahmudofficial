@@ -14,7 +14,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/Sejan__Mahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" width="50" height="50"/>
   </a>
   <a href="https://youtube.com/@sejan_gaming_official" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="50"/>
@@ -32,7 +32,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="50" height="50"/>
   </a>
   <a href="https://tumblr.com/@sejanmahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tumblr_logo.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Tumblr_logo_2018.svg" width="50" height="50"/>
   </a>
   <a href="https://mastodon.social/@SejanMahmud" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="50" height="50"/>
