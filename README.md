@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sejanmahmudofficial" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/sejanmahmudofficial/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/>
@@ -29,16 +29,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" width="50" height="50"/>
   </a>
   <a href="https://pinterest.com/Sejan_Mahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Pinterest_Logo.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="50" height="50"/>
   </a>
   <a href="https://tumblr.com/@sejanmahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Tumblr_Logos_2018.svg" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Tumblr_Logo.svg" width="50" height="50"/>
   </a>
   <a href="https://mastodon.social/@SejanMahmud" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="50" height="50"/>
   </a>
   <a href="https://leetcode.com/SejanMahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_black.png" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50"/>
   </a>
   <a href="https://wa.me/8801892063187" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50" height="50"/>
