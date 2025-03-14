@@ -1,3 +1,4 @@
 <a href="https://bio.link/sejanmahmud" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/website_icon.svg" width="50" height="50"/>
+  </a>
+
